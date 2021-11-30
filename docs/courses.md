@@ -2,7 +2,7 @@
 layout: default
 title: Wonderful courses at WUSTL
 description: Proud to be in St. Louis
----
+
 
 
 CSE554A Geometric Computing for Biomedicine
