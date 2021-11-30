@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Wonderful Courses at WUSTL
 description: Proud to be in St.Louis
 ---
