@@ -12,6 +12,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About Me
 
+Hi there, I am a master student majoring in Computer Science in <a href="https://engineering.wustl.edu/index.html">Mckelvey School of Engineering</a> at <a href="https://wustl.edu/">Washington University in St. Louis and I am dedicated to the study of medical image anaysis and deep learning. My research interests include machine learning, optimization and computational imaging. 
+
+I received my B.E in Electrical Engineering at Wuhan Textile University.
+![image](https://user-images.githubusercontent.com/54591866/143969889-395c408c-ec8c-42b5-b2dd-84749bf9d1a7.png)
+
 
 ## Header 2
 
