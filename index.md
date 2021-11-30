@@ -17,11 +17,11 @@ I received my B.E in Electrical Engineering at <a href= "https://www.wtu.edu.cn/
 
 # Research
 I am genuinely interested in medical image analysis with deep learning, including cross-modal synthesis task by using deep generative models
-and image segmentation tasks solved by U-Net and fully convolutional network. I was luckily to work with <a href="https://scholar.harvard.edu/xiaofeng"> Dr. Xiaofeng Liu</a> as a visiting student at Harvard Medical School during Summer 2021. Our project focused on synthesizing PET(Positron emission tomography) from MRI(Magnetic Resonance Imaging) with cycle-consistent generative adversarial networks for Alzheimer’s disease diagnosis. I also had a wonderful research experience advised by <a href="https://www.ccrc.wustl.edu/~roger/">Prof Roger Chamberlain</a> during Summer 2020. This experience was focusing on high performance computing and accelerating FPGAs by using OpenCL platform. 
+and image segmentation tasks solved by U-Net and fully convolutional network. I was luckily to work with <a href="https://scholar.harvard.edu/xiaofeng"> Dr. Xiaofeng Liu</a> as a visiting student at Harvard Medical School during Summer 2021. Our project focused on synthesizing PET(Positron emission tomography) from MRI(Magnetic Resonance Imaging) with cycle-consistent generative adversarial networks for Alzheimer’s disease diagnosis. I also had a wonderful research experience advised by <a href="https://www.ccrc.wustl.edu/~roger/">Prof. Roger Chamberlain</a> during Summer 2020. This experience was focusing on high performance computing and accelerating FPGAs by using OpenCL platform. 
 
 I am seeking for a PhD opportunity or a full-time industry job starting on Summer 2022! 🎉
 Please feel free to contact me if you know any possible availability of PhD postions or if you want to discuss with me about PhD applications or algorithms for job-seeking.
-
+[yongting.cheng at wustl dot edu]
 
 * * *
 
