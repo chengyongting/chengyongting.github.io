@@ -4,7 +4,7 @@ layout: default
 
 
 Hi there!
-<img src="/docs/IMG_0462 2.JPG" alt="tt">
+<img src="/docs/IMG_0462 2.JPG" alt="tt" width="404" height="268">
 
 
 # About Me
