@@ -5,7 +5,9 @@ description: Proud to be in St.Louis
 ---
 
 
-- CSE554A Geometric Computing for Biomedicine CSE559A Computer Vision
+- CSE554A Geometric Computing for Biomedicine 
+
+- CSE559A Computer Vision
 
 - ESE415 Optimization
 
